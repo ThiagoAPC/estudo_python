@@ -1,0 +1,20 @@
+https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaDia(moeda=@moeda,dataCotacao=@dataCotacao)?@moeda='USD'&@dataCotacao='07-08-2024'&$format=json
+
+[15:07] Allan Lacerda Ramos
+Essa URL que te passei é uma API de dados abertos do BAcen com informações de PTAX
+ 
+[15:07] Allan Lacerda Ramos
+Eu preciso gerar um dataframe do pandas com ela
+ 
+[15:07] Allan Lacerda Ramos
+seu desafio é esse 
+ 
+[15:07] Allan Lacerda Ramos
+bater na API e gerar o dataframe
+ 
+
+bibliotecas:
+request pra fazer requisições HTTP
+pandas pra elaborar o data frame
+===================================================================
+

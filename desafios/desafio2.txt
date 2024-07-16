@@ -1,0 +1,3 @@
+foi requisitado a pivotagem de uma tabela no excel para que seja
+gerado um dataframe, bem como fazer o tratamento das informações uma vez que
+elas estejam aparecendo no df 
